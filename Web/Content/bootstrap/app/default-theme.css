@@ -1,0 +1,33 @@
+﻿body .top-nav-bar {
+  background: #0094ff;
+  color: #fff;
+}
+body .top-nav-bar .navbar .nav {
+  margin-left: 100px;
+  margin-top: 5px;
+  position: absolute;
+  right: 0;
+}
+body .top-nav-bar .navbar .nav li {
+  float: left;
+  list-style: none;
+}
+body .top-nav-bar .navbar .nav li a {
+  padding-top: 11px;
+  padding-bottom: 6px;
+  margin: 0 15px;
+  display: inline-block;
+  color: white;
+}
+body .top-nav-bar .navbar .navbar-brand {
+  padding: 0;
+  float: left;
+  margin: 0;
+  max-width: none;
+}
+body .top-nav-bar .navbar a {
+  color: #fff;
+  font-size: 15px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
